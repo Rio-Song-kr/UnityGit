@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private int _hp = 5;
+    [SerializeField] private int _hp = 30;
 }
